@@ -1,9 +1,9 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: JavaScript Brasil | Comunidade brasileira de JavaScript
 email: youremail@xyz.com
 description: Some text about your blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+url: "https://brasil.js.org" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
