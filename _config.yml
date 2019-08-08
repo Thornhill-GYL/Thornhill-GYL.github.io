@@ -1,7 +1,7 @@
 # Site Settings
 title: JavaScript Brasil | Comunidade brasileira de JavaScript
-email: youremail@xyz.com
-description: Some text about your blog.
+email: javascriptbrasil@gmail.com
+description: Comunidade brasileira de desenvolvedores que amam JavaScript
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brasil.js.org" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
@@ -13,10 +13,10 @@ disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+github_username: javascriptbrasil
 facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+twitter_username: javascriptbrasil
+instagram_username: javascriptbrasil
 linkedin_username: linkedin_username
 medium_username: medium_username
 
