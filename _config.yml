@@ -1,13 +1,13 @@
 # Site Settings
-title: JavaScript Brasil | Comunidade brasileira de JavaScript
-email: javascriptbrasil@gmail.com
+title: Thornhill-GYL
+email: thronhillgyl@gmail.com
 description: Comunidade brasileira de desenvolvedores que amam JavaScript
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://brasil.js.org" # the base hostname & protocol for your site
+url: "https://Thornhill-GYL.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: Thornhill-GYL
 user_description: Some text about you.
 disqus_username: disqus_username
 
