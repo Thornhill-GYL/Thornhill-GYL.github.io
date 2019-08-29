@@ -1,22 +1,22 @@
 # Site Settings
 title: Thornhill-GYL
 email: thronhillgyl@gmail.com
-description: Comunidade brasileira de desenvolvedores que amam JavaScript
+description: a blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Thornhill-GYL.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: Thornhill-GYL
-user_description: Some text about you.
+user_description: a student.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: javascriptbrasil
+github_username: Thornhill-GYL
 facebook_username: facebook_username
-twitter_username: javascriptbrasil
-instagram_username: javascriptbrasil
+twitter_username: twitter_username
+instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
 
