@@ -2,7 +2,7 @@
 layout: post
 title: "非sudo用户安装-anaconda3-过程"
 date: 2019-10-13 20:55:40
-image: 'https://raw.githubusercontent.com/Thornhill-GYL/markdownpicture/master/SPORT.jpg'
+image: 'https://raw.githubusercontent.com/Thornhill-GYL/markdownpicture/master/%E5%9B%BE%E6%A0%87.png'
 description: anaconda3.
 category: 'Linux'
 tags:
